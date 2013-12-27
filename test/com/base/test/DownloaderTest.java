@@ -1,11 +1,9 @@
 package com.base.test;
 
 
-import com.github.axet.wget.WGet;
-import com.luugiathuy.apps.downloadmanager.DownloadManager;
-import com.luugiathuy.apps.downloadmanager.Downloader;
+import com.com.spider.downloader.DownloadManager;
+import com.com.spider.downloader.Downloader;
 
-import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
 

@@ -23,7 +23,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 */
 
-package com.luugiathuy.apps.downloadmanager;
+package com.com.spider.downloader;
 
 import java.util.Observable;
 import java.util.Observer;
