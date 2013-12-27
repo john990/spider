@@ -50,7 +50,7 @@ public class HttpDownloader extends Downloader{
 			// Open connection to URL
 			conn = (HttpURLConnection)mURL.openConnection();
 			conn.setConnectTimeout(10000);
-			
+
 			// Connect to server
 			conn.connect();
 			
