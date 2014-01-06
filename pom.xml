@@ -67,13 +67,6 @@
 			<version>3.2.1</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.github.axet</groupId>
-			<artifactId>wget</artifactId>
-			<version>1.2.9</version>
-		</dependency>
-
-
 
 	</dependencies>
 
