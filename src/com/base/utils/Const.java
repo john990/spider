@@ -5,5 +5,5 @@ package com.base.utils;
  * Function :
  */
 public class Const {
-	public static final String aa = "";
+    public static final String aa = "";
 }
